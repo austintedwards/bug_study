@@ -1,21 +1,21 @@
 body{margin: 0;}
 
+
+
+@font-face {
+    font-family: wijaya_fresh;
+    src: url(../fonts/WIJAYA_FRESH.ttf);
+}
+
 header {
   width: 100vw;
   height: 2em;
   background-color: #440000;
   color: white;
-  text-align:center;
+  text-align: center;
   font-family: wijaya_fresh;
   font-size: 40px;
 }
-
-
-@font-face {
-    font-family: wijaya_fresh;
-    src: url(/fonts/WIJAYA_FRESH.ttf);
-}
-
 
 footer {
    position:fixed;
